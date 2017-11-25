@@ -1,3 +1,3 @@
 Travel Buddy Python Belt Exam
 
-[[https://raw.githubusercontent.com/ardenzhan/travel/master/c-travelbuddy.png]]
+![Travel Buddy](https://raw.githubusercontent.com/ardenzhan/travel/master/c-travelbuddy.png)
